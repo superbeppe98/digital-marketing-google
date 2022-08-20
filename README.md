@@ -17,11 +17,8 @@ Opportunities: elements in the environment that the business or project could ex
 Threats: elements in the environment that could cause trouble for the business or project
 
 
+1.google search console
 indicatori di prestazioni chiave kpi
 
-
-
-Fare in modo che gli utenti trovino facilmente un'attività sul Web (5)
-1.google search console
 
 
