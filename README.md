@@ -11,6 +11,11 @@ Trasferire un'attività online (4)
 
 4. Unique selling proposition , punto fdi forza esclusivo 
 analisi SWOT forza debolezza opportunita' minacce
+Strengths: characteristics of the business or project that give it an advantage over others
+Weaknesses: characteristics that place the business or project at a disadvantage relative to others
+Opportunities: elements in the environment that the business or project could exploit to its advantage
+Threats: elements in the environment that could cause trouble for the business or project
+
 
 indicatori di prestazioni chiave kpi
 
