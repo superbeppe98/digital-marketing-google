@@ -212,7 +212,3 @@
     <li>Advertising on video sharing sites</li>
     <li>Measuring video performance</li>
 </ol>
-
-
-
-
